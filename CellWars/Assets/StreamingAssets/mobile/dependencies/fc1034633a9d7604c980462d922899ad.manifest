@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3742602422
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b131054d9a84d3e10d4d2dbd3514303
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 699dc8d5d6b75a27caa1640a4a8b7c11
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/anim/UI_SKILL_FULL.anim
+Dependencies: []

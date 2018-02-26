@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 44384804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 167f5a295932bc7d95df528507a92638
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/audio/music/music_rain.ogg
+- Assets/sourceArt/audio/sound/wreck.mp3
+- Assets/sourceArt/audio/sound/remove.mp3
+- Assets/sourceArt/audio/music/music_bugs.ogg
+- Assets/sourceArt/audio/sound/Pop.mp3
+- Assets/sourceArt/audio/sound/PutAutoSkill.mp3
+- Assets/sourceArt/audio/sound/clear.mp3
+- Assets/sourceArt/audio/sound/bomb.mp3
+- Assets/sourceArt/audio/sound/Refresh.mp3
+- Assets/sourceArt/audio/sound/report.mp3
+- Assets/sourceArt/audio/music/music_beach_brird.ogg
+- Assets/sourceArt/audio/sound/ItemEnter.mp3
+- Assets/sourceArt/audio/sound/Useskill.mp3
+- Assets/sourceArt/audio/sound/rollback.mp3
+- Assets/sourceArt/audio/sound/click.ogg
+- Assets/sourceArt/audio/sound/Harvest.mp3
+Dependencies: []

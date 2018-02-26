@@ -1,0 +1,146 @@
+//
+
+//public 10001-11000
+10001=En
+10002=tahomabd
+
+
+//Setting 11001-11100
+11001=Settings
+11002=Music
+11003=Sound
+
+//Map 11101-11200
+11101=Just open {0} levels
+11102=Level not exist
+11103=Level not open
+11104=Current level
+11105=Coming soon
+11106=Level
+
+//Prepare 11201 -11300
+11201=Personal Best
+11202=No record
+11203=Tasks
+11204=Start!
+
+//Skill 11301-11400
+11301=Is locked!
+11303=Need pass level
+11305=Upgrade
+11306=Max Level
+
+//fight 11401-11500
+11401=Tasks
+11402=Win!
+11403=Roll
+11404=Refresh
+11405=Count is not enough!
+11407=Moves +3
+11408=Cancel
+11409=Select a bug
+11410=Clear
+11411=Brush
+11412=Select a type
+11413=Switch
+11414=Select another
+11415=Invalid postion!
+11416=Out of Moves
+11417=Buy 3 moves to continue?
+11418=End Level
+
+//Prop 11501-11600
+11501=Refresh
+11502=Refresh postions
+11503=Bomb
+11504=Destroy a bug
+11505=Brush
+11506=Change a bug
+11507=Add moves
+11508=Moves +3
+11509=Switch
+11510=Switch two bugs
+11511=Disable
+11512=Moves
+
+//Confirm 11601-11700
+11601=Deadlock
+11602=You need exit the challenge.
+11603=Exit
+11604=Are you sure you want to exit the game?
+11605=Sure
+11606=Yes
+11607=No
+11608=Buy
+11609=Cost
+11610=Pause
+11611=Restart
+11612=Give Up
+11613=Use
+
+//tip 11701-11800
+11701=Good!
+11702=Nice!
+11703=Great!
+11704=Fantastic!
+11705=Wonderful!
+
+//report 11801-11900
+11801=Score
+11802=Next
+11803=Again
+11804=Quit
+11805=New skill
+11806=LevelUp skills
+11807=Complete!
+11808=Level Failed
+
+//wealth 11901-12000
+11901=is not enough!
+11902=money
+11903=diamond
+11904=coin
+11905=energy
+11906=Diamond
+11907=Loading
+11908=Energy
+11909=Max Energy
+11910=Limit
+11911=Max
+
+//challenge 12001-13000
+12001=Challenge
+12002=Yet open
+
+//pinball 13001-14000
+13001=Ordinary
+13002=Advance
+
+//guild 14001-15000
+14001=Let's start here.
+14002=Link at least three bugs.
+14003=Moves: 8 moves left.
+14004=Tasks: Collect these in the left moves.
+14005=Score & Star: Clear more to get more scores and more stars.
+14006=Awesome! Continue to collect joys!!
+14007=Try again.
+14008=Try bomb skill.
+14009=You unlock a bomb skill.
+14010=See how to use.
+14011=Pay attention to the progress to continue to obtain.
+14012=Change this bug.
+14013=Use brush magic.
+
+//star 15001-16000
+15001=Star
+
+//mapunlock 16001-17000
+16001=Unlock Level
+16002=The number of stars to reach
+16003=More Stars
+16004=OR
+16005=Use diamonds unlock
+
+//admodule 17001-18000
+17001=Get diamonds by watching video.
+17002=Video is loading.

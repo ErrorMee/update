@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: fb90c7a5e01d61b4fbf118b6d185a926
+timeCreated: 1461229200
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tahoma
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: font.ab
+  assetBundleVariant: 

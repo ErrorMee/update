@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4136562452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b04336dc43e219a0e66ccf3c7202eae1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21df8b72284ddb1dca11e31cc9a305db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/prefab/LoadingModule/LoadingModule.prefab
+Dependencies:
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/b0ed07b8fd8122341820a796dac28a89
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/84afaf3e67731cc4fb3152d4eda12133

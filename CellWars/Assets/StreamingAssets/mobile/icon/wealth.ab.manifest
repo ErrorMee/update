@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3430663969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1375ed4a2112e1b45dc67f1a05f61181
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/icon/wealth/wealth_11104.png
+- Assets/sourceArt/icon/wealth/wealth_11101.png
+- Assets/sourceArt/icon/wealth/wealth_11103.png
+- Assets/sourceArt/icon/wealth/wealth_10100.png
+- Assets/sourceArt/icon/wealth/wealth_11102.png
+Dependencies: []

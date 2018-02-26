@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1453731103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e91f51b1ad201df6ee8bf6ae4254c187
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/icon/cover/cover_30012.png
+- Assets/sourceArt/icon/cover/cover_30000.png
+- Assets/sourceArt/icon/cover/cover_30001.png
+- Assets/sourceArt/icon/cover/cover_30008.png
+- Assets/sourceArt/icon/cover/cover_30006.png
+- Assets/sourceArt/icon/cover/cover_30015.png
+- Assets/sourceArt/icon/cover/cover_30014.png
+- Assets/sourceArt/icon/cover/cover_30003.png
+- Assets/sourceArt/icon/cover/cover_30016.png
+- Assets/sourceArt/icon/cover/cover_30002.png
+- Assets/sourceArt/icon/cover/cover_30004.png
+- Assets/sourceArt/icon/cover/cover_30013.png
+- Assets/sourceArt/icon/cover/cover_30018.png
+- Assets/sourceArt/icon/cover/cover_30019.png
+- Assets/sourceArt/icon/cover/cover_30007.png
+- Assets/sourceArt/icon/cover/cover_30005.png
+- Assets/sourceArt/icon/cover/cover_30011.png
+- Assets/sourceArt/icon/cover/cover_30017.png
+Dependencies: []

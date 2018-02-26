@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CellWars.CSharp", "UnityVS.CellWars.CSharp.csproj", "{6F9161E5-9A5E-DF4B-4FD7-3A934002E762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CellWars.CSharp.Editor", "UnityVS.CellWars.CSharp.Editor.csproj", "{3E7EB97C-3AE5-51E8-119E-B0F1E6D1FADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CellWars.CSharp.Plugins", "UnityVS.CellWars.CSharp.Plugins.csproj", "{4A39848F-372A-8566-4398-08C6649F29F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F9161E5-9A5E-DF4B-4FD7-3A934002E762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9161E5-9A5E-DF4B-4FD7-3A934002E762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9161E5-9A5E-DF4B-4FD7-3A934002E762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9161E5-9A5E-DF4B-4FD7-3A934002E762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7EB97C-3AE5-51E8-119E-B0F1E6D1FADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7EB97C-3AE5-51E8-119E-B0F1E6D1FADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7EB97C-3AE5-51E8-119E-B0F1E6D1FADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7EB97C-3AE5-51E8-119E-B0F1E6D1FADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A39848F-372A-8566-4398-08C6649F29F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A39848F-372A-8566-4398-08C6649F29F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A39848F-372A-8566-4398-08C6649F29F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A39848F-372A-8566-4398-08C6649F29F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

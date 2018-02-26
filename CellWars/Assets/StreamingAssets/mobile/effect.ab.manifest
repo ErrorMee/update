@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3974564091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88b2f29627a0ab3011beb9b2313c9684
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51f739955a4e020f7dcca7360c857e1b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6885b2bb6ef21154a97be21d6426b0ba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/effect/effect_fireworks.prefab
+- Assets/sourceArt/effect/effect_skill_fly.prefab
+- Assets/sourceArt/effect/effect_wall_wreck.prefab
+- Assets/sourceArt/effect/effect_cell_bomb.prefab
+- Assets/sourceArt/effect/effect_fireworks_n.prefab
+- Assets/sourceArt/effect/effect_cell_clear.prefab
+Dependencies:
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/5a64cb22a2bff8444833d23b7c96d925
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/40d821cd29966ab49be2e9354773b7c9

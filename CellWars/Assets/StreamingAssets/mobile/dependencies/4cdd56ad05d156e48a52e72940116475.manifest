@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1521620053
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d22593dfacb75c4ead78ff6879b3c8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/ui/ui_wave.png
+Dependencies: []

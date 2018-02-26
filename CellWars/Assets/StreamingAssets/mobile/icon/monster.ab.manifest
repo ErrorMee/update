@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 3618519536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8683049ff7656777f411af5c0f76f8d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/icon/monster/monster_40202.png
+- Assets/sourceArt/icon/monster/monster_40209.png
+- Assets/sourceArt/icon/monster/monster_40234.png
+- Assets/sourceArt/icon/monster/monster_40210.png
+- Assets/sourceArt/icon/monster/monster_40211.png
+- Assets/sourceArt/icon/monster/monster_40229.png
+- Assets/sourceArt/icon/monster/monster_40002.png
+- Assets/sourceArt/icon/monster/monster_40199.png
+- Assets/sourceArt/icon/monster/monster_40004.png
+- Assets/sourceArt/icon/monster/monster_40129.png
+- Assets/sourceArt/icon/monster/monster_40233.png
+- Assets/sourceArt/icon/monster/monster_40213.png
+- Assets/sourceArt/icon/monster/monster_40123.png
+- Assets/sourceArt/icon/monster/monster_40205.png
+- Assets/sourceArt/icon/monster/monster_40135.png
+- Assets/sourceArt/icon/monster/monster_40125.png
+- Assets/sourceArt/icon/monster/monster_40214.png
+- Assets/sourceArt/icon/monster/monster_40101.png
+- Assets/sourceArt/icon/monster/monster_40200.png
+- Assets/sourceArt/icon/monster/monster_40203.png
+- Assets/sourceArt/icon/monster/monster_40230.png
+- Assets/sourceArt/icon/monster/monster_40236.png
+- Assets/sourceArt/icon/monster/monster_40225.png
+- Assets/sourceArt/icon/monster/monster_40114.png
+- Assets/sourceArt/icon/monster/monster_40217.png
+- Assets/sourceArt/icon/monster/monster_40111.png
+- Assets/sourceArt/icon/monster/monster_40204.png
+- Assets/sourceArt/icon/monster/monster_40235.png
+- Assets/sourceArt/icon/monster/monster_40133.png
+- Assets/sourceArt/icon/monster/monster_40127.png
+- Assets/sourceArt/icon/monster/monster_40206.png
+- Assets/sourceArt/icon/monster/monster_40207.png
+- Assets/sourceArt/icon/monster/monster_40218.png
+- Assets/sourceArt/icon/monster/monster_40220.png
+- Assets/sourceArt/icon/monster/monster_40113.png
+- Assets/sourceArt/icon/monster/monster_40005.png
+- Assets/sourceArt/icon/monster/monster_40122.png
+- Assets/sourceArt/icon/monster/monster_40126.png
+- Assets/sourceArt/icon/monster/monster_40226.png
+- Assets/sourceArt/icon/monster/monster_40215.png
+- Assets/sourceArt/icon/monster/monster_40130.png
+- Assets/sourceArt/icon/monster/monster_40106.png
+- Assets/sourceArt/icon/monster/monster_40003.png
+- Assets/sourceArt/icon/monster/monster_40219.png
+- Assets/sourceArt/icon/monster/monster_40132.png
+- Assets/sourceArt/icon/monster/monster_40224.png
+- Assets/sourceArt/icon/monster/monster_40216.png
+- Assets/sourceArt/icon/monster/monster_40131.png
+- Assets/sourceArt/icon/monster/monster_40116.png
+- Assets/sourceArt/icon/monster/monster_40223.png
+- Assets/sourceArt/icon/monster/monster_40121.png
+- Assets/sourceArt/icon/monster/monster_40119.png
+- Assets/sourceArt/icon/monster/monster_40120.png
+- Assets/sourceArt/icon/monster/monster_40238.png
+- Assets/sourceArt/icon/monster/monster_40212.png
+- Assets/sourceArt/icon/monster/monster_40232.png
+- Assets/sourceArt/icon/monster/monster_40222.png
+- Assets/sourceArt/icon/monster/monster_40136.png
+- Assets/sourceArt/icon/monster/monster_40128.png
+- Assets/sourceArt/icon/monster/monster_40115.png
+- Assets/sourceArt/icon/monster/monster_40000.png
+- Assets/sourceArt/icon/monster/monster_40227.png
+- Assets/sourceArt/icon/monster/monster_40117.png
+- Assets/sourceArt/icon/monster/monster_40228.png
+- Assets/sourceArt/icon/monster/monster_40124.png
+- Assets/sourceArt/icon/monster/monster_40231.png
+- Assets/sourceArt/icon/monster/monster_40112.png
+- Assets/sourceArt/icon/monster/monster_40237.png
+- Assets/sourceArt/icon/monster/monster_40134.png
+- Assets/sourceArt/icon/monster/monster_40001.png
+- Assets/sourceArt/icon/monster/monster_40221.png
+- Assets/sourceArt/icon/monster/monster_40201.png
+- Assets/sourceArt/icon/monster/monster_40208.png
+- Assets/sourceArt/icon/monster/monster_40118.png
+Dependencies: []

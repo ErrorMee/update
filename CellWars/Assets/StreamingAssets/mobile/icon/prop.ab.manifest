@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3659946100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79d14208d804ff945f72024cc3949969
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/icon/prop/prop_10002.png
+- Assets/sourceArt/icon/prop/prop_10001.png
+- Assets/sourceArt/icon/prop/prop_10004.png
+- Assets/sourceArt/icon/prop/prop_10005.png
+- Assets/sourceArt/icon/prop/prop_10003.png
+Dependencies: []

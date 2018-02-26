@@ -1,0 +1,20 @@
+//COMMON_FIGHT_ENERGY_COST
+1001=3
+//SKILL_SEED_COST
+1002=20.00
+//MIN_LINE_COUNT
+1003=3
+//ENERGY_RECOVER
+1004=300.00
+//first win reward cion
+1005=1500
+//firstwinrewardgem
+1006=5
+//open max level
+1007=20070
+//after win reward cion
+1008=100
+//after win cion per score
+1009=25
+//adOpen
+1010=20007

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 146158366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 484993c62803d6669123121531a1129b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/ui/128add.png
+Dependencies: []

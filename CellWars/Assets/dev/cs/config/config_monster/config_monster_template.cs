@@ -1,0 +1,1 @@
+﻿using UnityEngine;using System.Collections;public class config_monster_template : config_template_base{    //隐藏的格子    public string hide_id;    public string monster_type;	public string size;    //方向旋转0-5    public string rotate;    //永久    public string forever;    //释放    public string release;    }

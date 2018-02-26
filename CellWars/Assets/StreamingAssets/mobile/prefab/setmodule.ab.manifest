@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 4196219242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b25075edf2e5cf0adbc9dd44d0eb18be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c96e5836e9c86d3aead70fe16f6d3e11
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24578d62ab56b78438e1d73a9e57d889, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/prefab/SetModule/SetModule.prefab
+Dependencies:
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/5a64cb22a2bff8444833d23b7c96d925
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/b172b8e88a21d5643931fd18cc62f736
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/0a2608c9eaa40ae428260cf58f1df137
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/f1ad260f1199dbd41bd47ac7491fbf55
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/b10ff2c0e9c230641b5e85b3408ce196
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/font.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/0dd5ce97d853cf447926853ba160a6c0
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/b2a11a0977bbfc448995233ce9083cc9
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/a1dfc1c4288e9e4489892b01556a2466
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/0a217269618cfab4b890761e337c727c
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/86c2cdf904297044bac5420ee407c186

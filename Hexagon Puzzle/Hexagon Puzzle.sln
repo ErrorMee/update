@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C53E3885-35E5-776D-D819-475AAFD0C37C}") = "Hexagon Puzzle", "Assembly-CSharp-firstpass.csproj", "{D9562E5B-2EB2-BCD8-6838-851A8B20C4DE}"
+EndProject
+Project("{C53E3885-35E5-776D-D819-475AAFD0C37C}") = "Hexagon Puzzle", "Assembly-CSharp.csproj", "{BEA67652-9F3D-672B-F587-BE9811DB2661}"
+EndProject
+Project("{C53E3885-35E5-776D-D819-475AAFD0C37C}") = "Hexagon Puzzle", "Assembly-CSharp-Editor.csproj", "{9D2B7EBB-AB66-2322-9A6D-8B942DEB9A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9562E5B-2EB2-BCD8-6838-851A8B20C4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9562E5B-2EB2-BCD8-6838-851A8B20C4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9562E5B-2EB2-BCD8-6838-851A8B20C4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9562E5B-2EB2-BCD8-6838-851A8B20C4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA67652-9F3D-672B-F587-BE9811DB2661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA67652-9F3D-672B-F587-BE9811DB2661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA67652-9F3D-672B-F587-BE9811DB2661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA67652-9F3D-672B-F587-BE9811DB2661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2B7EBB-AB66-2322-9A6D-8B942DEB9A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2B7EBB-AB66-2322-9A6D-8B942DEB9A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2B7EBB-AB66-2322-9A6D-8B942DEB9A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2B7EBB-AB66-2322-9A6D-8B942DEB9A90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

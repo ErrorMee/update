@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 208857087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9f112d690e916e0494dcab72896bf0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/ui/128review.png
+Dependencies: []

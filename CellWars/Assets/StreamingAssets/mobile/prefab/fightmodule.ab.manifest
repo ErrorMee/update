@@ -1,0 +1,143 @@
+ManifestFileVersion: 0
+CRC: 3703712197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aca3d54aad757cf99c4a7e1762f2824f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ea62aa600a5993e554a51f95b70628
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b71fee01227ad004db5617b1016928f2, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed54b9151dfc1034c96f976157247ec0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03021725b5297504996435233e45175b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af70fb25b425ff04faf4f5e0ee3b0910, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65e98495f0eefd046a0b4cef10b81e42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d17e6f87d9105904f9b3e399d44437e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14f21cd729f0a314798709a0e5e21191, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 290de20888c6132449ed051254e23e2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3bd8fa2833b7e0444a52df0e1a385ab8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10eb409af37a4b648996a9e3e1339c5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4e92c9a60f3b1a4ebec1195b0f264f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b30ee0ba31b6f4c4e83602c9072b3565, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a9e63bba21377354983c7eb11bfc3190, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 282c4e0b6f5a6894295bbc956e60e976, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8ce2d3bcdbd0e14ba2e4a7928e45dd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5836006b01866454d8dd4047628fa4c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e711f99cd1c7fe24b842122490f10b6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c07fe3df2321e7479c73d4a7813dfed, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/prefab/FightModule/SkillItem.prefab
+- Assets/sourceArt/prefab/FightModule/PropTouchItem.prefab
+- Assets/sourceArt/prefab/FightModule/TaskItem.prefab
+- Assets/sourceArt/prefab/FightModule/FightBaseItem.prefab
+- Assets/sourceArt/prefab/FightModule/FightCellItem.prefab
+- Assets/sourceArt/prefab/FightModule/FightModule.prefab
+- Assets/sourceArt/prefab/FightModule/TaskTipItem.prefab
+- Assets/sourceArt/prefab/FightModule/FightCoverItem.prefab
+- Assets/sourceArt/prefab/FightModule/FightFloorItem.prefab
+- Assets/sourceArt/prefab/FightModule/FightHideItem.prefab
+- Assets/sourceArt/prefab/FightModule/FightControlItem.prefab
+- Assets/sourceArt/prefab/FightModule/FightMonsterItem.prefab
+- Assets/sourceArt/prefab/FightModule/FightFanceItem.prefab
+- Assets/sourceArt/prefab/FightModule/PropItem.prefab
+- Assets/sourceArt/prefab/FightModule/FightLineItem.prefab
+- Assets/sourceArt/prefab/FightModule/FightLayer.prefab
+- Assets/sourceArt/prefab/FightModule/FightEffectItem.prefab
+Dependencies:
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/794afb71e174a3c42b7786862f94b618
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/79db5a810719e7345b930df697fc7b9e
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/5a64cb22a2bff8444833d23b7c96d925
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/44199c55aaa93ec4ca99059e2315f016
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/3d27fea874937d7449a37d93b179309d
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/b172b8e88a21d5643931fd18cc62f736
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/0a2608c9eaa40ae428260cf58f1df137
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/14b3b82a6ffae704d85193b6e5f8b727
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/a7bb3b4acbd80074f9e7b6cbeb1da501
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/37e7a16cec9e66a40bea71667df34060
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/ac28468c6d44cbc41b77446ff168f508
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/40d821cd29966ab49be2e9354773b7c9
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/4611e64e4219dd74e80ef206fd990a5a
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/f1ad260f1199dbd41bd47ac7491fbf55
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/icon/cell.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/icon/cover.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/icon/monster.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/icon/prop.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/de94e3dd7a1404e449b29e7ac001b665
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/2c97ea88e91977045a4966d215acbf01
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/021d403c44159a04c93cee0a7e75d54e
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/8e986b0036d25ce47830e7c43c73f3b6
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/ae3bcb7d0ca016c4ea456c2ca2a2110a
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/2b68a776509e20b44bd57658b744b75e
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/216177c81b55afc4c8496ea7cb36f8c6
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/75bcccba61cbeef4fb4daa4a1ad2189d
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/fc1034633a9d7604c980462d922899ad
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/b10ff2c0e9c230641b5e85b3408ce196
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/37ca3465ecb1c7d428172fad3e952254
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/font.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/3795d3434a7f3d1468f3119f56596306
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/icon/ui.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/4cdd56ad05d156e48a52e72940116475
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/4d174697baad1ae46a7fc7b162b2c95e
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/894dd4aee79f3884498f8673cd4f3051
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/2695c9993a0bed54795d44ec5506043a
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/icon/wealth.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/3463d3cc912b34d208bf58c491637edd
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/ad2da0fb95da20b4bb46d422b711464d
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/ff6b51e98d45d2f47bf495e2b119e34b
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/a9bad44d4f0119b41af7225e9b672541

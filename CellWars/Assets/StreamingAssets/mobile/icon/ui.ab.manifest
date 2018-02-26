@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4130357513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb36548a8de0364d43bd19257a7b0626
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/icon/ui/fight_mask.png
+- Assets/sourceArt/icon/ui/rock.png
+- Assets/sourceArt/icon/ui/ground.png
+- Assets/sourceArt/icon/ui/cell_01.png
+Dependencies: []

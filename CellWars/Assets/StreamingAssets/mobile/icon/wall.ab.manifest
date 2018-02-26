@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2767469540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8423af3e9a6b0142fa2255a1ad8e699d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/icon/wall/wall_20002.png
+- Assets/sourceArt/icon/wall/wall_20004.png
+- Assets/sourceArt/icon/wall/wall_20001.png
+- Assets/sourceArt/icon/wall/wall_20000.png
+- Assets/sourceArt/icon/wall/wall_20003.png
+Dependencies: []

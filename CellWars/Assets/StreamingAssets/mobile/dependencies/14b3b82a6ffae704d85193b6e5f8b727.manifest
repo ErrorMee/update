@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1407625616
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 045d56b38b8322c2e6be9a86691f4634
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/ui/lock.png
+Dependencies: []

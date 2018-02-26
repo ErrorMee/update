@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CE3BF085-9DF1-3397-0F5C-085ECD60E2D3}") = "CellWars", "Assembly-CSharp-firstpass.csproj", "{3EA7DD58-AC56-D16B-BC4F-9085BBC14053}"
+EndProject
+Project("{CE3BF085-9DF1-3397-0F5C-085ECD60E2D3}") = "CellWars", "Assembly-CSharp.csproj", "{E1ACAD09-0585-5206-441B-6E61AA159440}"
+EndProject
+Project("{CE3BF085-9DF1-3397-0F5C-085ECD60E2D3}") = "CellWars", "Assembly-CSharp-Editor.csproj", "{8D9009FE-3670-8133-114F-7A500016F0A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA7DD58-AC56-D16B-BC4F-9085BBC14053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA7DD58-AC56-D16B-BC4F-9085BBC14053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA7DD58-AC56-D16B-BC4F-9085BBC14053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA7DD58-AC56-D16B-BC4F-9085BBC14053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1ACAD09-0585-5206-441B-6E61AA159440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1ACAD09-0585-5206-441B-6E61AA159440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1ACAD09-0585-5206-441B-6E61AA159440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1ACAD09-0585-5206-441B-6E61AA159440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9009FE-3670-8133-114F-7A500016F0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9009FE-3670-8133-114F-7A500016F0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9009FE-3670-8133-114F-7A500016F0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9009FE-3670-8133-114F-7A500016F0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

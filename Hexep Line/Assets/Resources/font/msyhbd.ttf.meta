@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4d20aef1df786974b90070180da4e53a
+timeCreated: 1450264038
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 3
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Microsoft YaHei
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: font.ab
+  assetBundleVariant: 

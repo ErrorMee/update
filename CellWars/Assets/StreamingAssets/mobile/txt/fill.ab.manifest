@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 143956045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1140e296e8fa3fe0a0d876c9b4e531b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/txt/fill/20043.txt
+- Assets/sourceArt/txt/fill/20001.txt
+- Assets/sourceArt/txt/fill/20066.txt
+- Assets/sourceArt/txt/fill/20032.txt
+- Assets/sourceArt/txt/fill/20065.txt
+- Assets/sourceArt/txt/fill/20025.txt
+- Assets/sourceArt/txt/fill/20004.txt
+- Assets/sourceArt/txt/fill/20009.txt
+- Assets/sourceArt/txt/fill/20074.txt
+- Assets/sourceArt/txt/fill/20076.txt
+- Assets/sourceArt/txt/fill/20078.txt
+- Assets/sourceArt/txt/fill/20015.txt
+- Assets/sourceArt/txt/fill/20014.txt
+- Assets/sourceArt/txt/fill/20026.txt
+- Assets/sourceArt/txt/fill/20060.txt
+- Assets/sourceArt/txt/fill/20080.txt
+- Assets/sourceArt/txt/fill/20070.txt
+- Assets/sourceArt/txt/fill/20017.txt
+- Assets/sourceArt/txt/fill/20038.txt
+- Assets/sourceArt/txt/fill/20018.txt
+- Assets/sourceArt/txt/fill/20079.txt
+- Assets/sourceArt/txt/fill/20011.txt
+- Assets/sourceArt/txt/fill/20057.txt
+- Assets/sourceArt/txt/fill/20075.txt
+- Assets/sourceArt/txt/fill/20055.txt
+- Assets/sourceArt/txt/fill/20035.txt
+- Assets/sourceArt/txt/fill/20072.txt
+- Assets/sourceArt/txt/fill/20012.txt
+- Assets/sourceArt/txt/fill/20067.txt
+- Assets/sourceArt/txt/fill/20056.txt
+- Assets/sourceArt/txt/fill/20068.txt
+- Assets/sourceArt/txt/fill/20046.txt
+- Assets/sourceArt/txt/fill/20028.txt
+- Assets/sourceArt/txt/fill/20019.txt
+- Assets/sourceArt/txt/fill/20051.txt
+- Assets/sourceArt/txt/fill/20069.txt
+- Assets/sourceArt/txt/fill/20058.txt
+- Assets/sourceArt/txt/fill/20071.txt
+- Assets/sourceArt/txt/fill/20033.txt
+- Assets/sourceArt/txt/fill/20006.txt
+- Assets/sourceArt/txt/fill/20047.txt
+- Assets/sourceArt/txt/fill/20059.txt
+- Assets/sourceArt/txt/fill/20037.txt
+- Assets/sourceArt/txt/fill/20023.txt
+- Assets/sourceArt/txt/fill/20063.txt
+- Assets/sourceArt/txt/fill/20034.txt
+- Assets/sourceArt/txt/fill/20062.txt
+- Assets/sourceArt/txt/fill/20050.txt
+- Assets/sourceArt/txt/fill/29999.txt
+- Assets/sourceArt/txt/fill/20073.txt
+- Assets/sourceArt/txt/fill/20008.txt
+- Assets/sourceArt/txt/fill/20030.txt
+- Assets/sourceArt/txt/fill/20005.txt
+- Assets/sourceArt/txt/fill/20041.txt
+- Assets/sourceArt/txt/fill/20044.txt
+- Assets/sourceArt/txt/fill/20045.txt
+- Assets/sourceArt/txt/fill/20007.txt
+- Assets/sourceArt/txt/fill/20021.txt
+- Assets/sourceArt/txt/fill/20022.txt
+- Assets/sourceArt/txt/fill/20054.txt
+- Assets/sourceArt/txt/fill/20040.txt
+- Assets/sourceArt/txt/fill/20016.txt
+- Assets/sourceArt/txt/fill/20003.txt
+- Assets/sourceArt/txt/fill/20061.txt
+- Assets/sourceArt/txt/fill/20064.txt
+- Assets/sourceArt/txt/fill/20002.txt
+- Assets/sourceArt/txt/fill/20024.txt
+- Assets/sourceArt/txt/fill/20013.txt
+- Assets/sourceArt/txt/fill/20077.txt
+- Assets/sourceArt/txt/fill/20049.txt
+- Assets/sourceArt/txt/fill/20027.txt
+- Assets/sourceArt/txt/fill/20042.txt
+- Assets/sourceArt/txt/fill/20053.txt
+- Assets/sourceArt/txt/fill/20039.txt
+- Assets/sourceArt/txt/fill/20031.txt
+- Assets/sourceArt/txt/fill/20020.txt
+- Assets/sourceArt/txt/fill/20048.txt
+- Assets/sourceArt/txt/fill/20029.txt
+- Assets/sourceArt/txt/fill/20010.txt
+- Assets/sourceArt/txt/fill/20052.txt
+- Assets/sourceArt/txt/fill/20036.txt
+Dependencies: []

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1827972411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 277e644c6bbf2053c7fd73898e006daf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dfe2c84c8026187687bc408a6762212f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24d59b2d8a7770d4b9b224ed030e9c7f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/prefab/ADModule/ADModule.prefab
+Dependencies:
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/b172b8e88a21d5643931fd18cc62f736
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/f1ad260f1199dbd41bd47ac7491fbf55
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/de94e3dd7a1404e449b29e7ac001b665
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/2b68a776509e20b44bd57658b744b75e
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/font.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/028573d1ee3a2419e8d9e7fd2c77e70a
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/894dd4aee79f3884498f8673cd4f3051
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/icon/wealth.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/bc83a0b681ea19b47b3283156cb0af43

@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1241660285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06aac08cab20f0c272dc0b1c12fae4a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21a8d38e49037b7b2fe2b047721232a4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9f96bfbded95744ba0ef0ccaf833b20, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/prefab/LoginModule/LoginModule.prefab
+Dependencies:
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/5a64cb22a2bff8444833d23b7c96d925
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/b10ff2c0e9c230641b5e85b3408ce196
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/font.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/b81d22d1137b68b45895d2191b653146
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/eb3108630a84d2e4c8cc61777422e248
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/c70210be075a4ed45b1395aea1148338

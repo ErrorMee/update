@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 586430137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52d39daa74458f97a0e95d6f665e9e31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d00f07a08b77eb5e4dafeba874de1234
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c2ab520bfa0c2f4fbe31f08fe67ece3, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 516b6bba18c025442b1d5373db54b232, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/prefab/PromptModule/PopItem.prefab
+- Assets/sourceArt/prefab/PromptModule/PromptModule.prefab
+Dependencies:
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/5a64cb22a2bff8444833d23b7c96d925
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/f2be6df778fe29341a4c8804398f6941
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/40d821cd29966ab49be2e9354773b7c9
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/b0ed07b8fd8122341820a796dac28a89
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/font.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/84afaf3e67731cc4fb3152d4eda12133
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/894dd4aee79f3884498f8673cd4f3051

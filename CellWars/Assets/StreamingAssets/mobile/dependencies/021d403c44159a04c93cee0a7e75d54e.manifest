@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3095533220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17edb6cbb94d6842dd9c53cf6a5c3219
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 699dc8d5d6b75a27caa1640a4a8b7c11
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/anim/UI_ROTATE.anim
+Dependencies: []

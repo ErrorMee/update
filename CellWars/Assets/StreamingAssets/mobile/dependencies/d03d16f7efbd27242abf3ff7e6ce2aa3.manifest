@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2294297520
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 549d921cb5930b2d65280dca35c9ac6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 699dc8d5d6b75a27caa1640a4a8b7c11
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/anim/UI_MAP_ICON.anim
+Dependencies: []

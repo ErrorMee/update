@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{E1ACAD09-0585-5206-441B-6E61AA159440}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_0;UNITY_5_4;UNITY_5;UNITY_ADS;UNITY_PURCHASING;UNITY_ANALYTICS;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;ENABLE_RUNTIME_GI;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_NETWORK;ENABLE_UNITYWEBREQUEST;ENABLE_TEXTUREID_MAP;PLAYERCONNECTION_LISTENS_FIXED_PORT;DEBUGGER_LISTENS_FIXED_PORT;PLATFORM_SUPPORTS_ADS_ID;SUPPORT_ENVIRONMENT_VARIABLES;PLATFORM_SUPPORTS_PROFILER;PLATFORM_HAS_NO_SUPPORT_FOR_BUCKET_ALLOCATOR;STRICTCPP_NEW_DELETE_SIGNATURES;HAS_NEON_SKINNIG;UNITY_INPUT_SIMULATE_EVENTS;PLATFORM_ALWAYS_USES_STDOUT_FOR_LOG;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;UNITY_IOS;UNITY_IPHONE;UNITY_IPHONE_API;SUPPORT_MULTIPLE_DISPLAYS;ENABLE_IL2CPP;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;UNITY_TEAM_LICENSE;CROSS_PLATFORM_INPUT;ENABLE_IOS_ON_DEMAND_RESOURCES;ENABLE_IOS_APP_SLICING</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\dev\cs\actionTree\base\ActionNode.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\base\ActionTree.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\base\CycleActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\base\OrderAction.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\base\ParallelAction.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\AlphaActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\DestroyActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\FuncActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\FuncTIVActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\LogActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\MoveActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\PauseActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\RotateActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\RotationActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\ScaleActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\SoundActor.cs" />
+     <Compile Include="Assets\dev\cs\actionTree\commonLeaf\WaitActor.cs" />
+     <Compile Include="Assets\dev\cs\base\BaseEffect.cs" />
+     <Compile Include="Assets\dev\cs\base\BaseItem.cs" />
+     <Compile Include="Assets\dev\cs\base\BaseList.cs" />
+     <Compile Include="Assets\dev\cs\base\BaseModule.cs" />
+     <Compile Include="Assets\dev\cs\base\Bugger.cs" />
+     <Compile Include="Assets\dev\cs\base\BuggerMoveInfo.cs" />
+     <Compile Include="Assets\dev\cs\base\BuggerPosInfo.cs" />
+     <Compile Include="Assets\dev\cs\base\EventTriggerListener.cs" />
+     <Compile Include="Assets\dev\cs\base\HiveBG.cs" />
+     <Compile Include="Assets\dev\cs\base\HiveItem.cs" />
+     <Compile Include="Assets\dev\cs\base\IVInfo.cs" />
+     <Compile Include="Assets\dev\cs\base\NumberText.cs" />
+     <Compile Include="Assets\dev\cs\base\RollNumberInfo.cs" />
+     <Compile Include="Assets\dev\cs\base\ScreenSlider.cs" />
+     <Compile Include="Assets\dev\cs\base\Singleton.cs" />
+     <Compile Include="Assets\dev\cs\base\SingletonObj.cs" />
+     <Compile Include="Assets\dev\cs\base\TIVInfo.cs" />
+     <Compile Include="Assets\dev\cs\base\TipImage.cs" />
+     <Compile Include="Assets\dev\cs\base\WealthItem.cs" />
+     <Compile Include="Assets\dev\cs\config\base\config_base.cs" />
+     <Compile Include="Assets\dev\cs\config\base\config_item_base.cs" />
+     <Compile Include="Assets\dev\cs\config\base\config_template_base.cs" />
+     <Compile Include="Assets\dev\cs\config\config_cell\config_cell.cs" />
+     <Compile Include="Assets\dev\cs\config\config_cell\config_cell_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_cell\config_cell_template.cs" />
+     <Compile Include="Assets\dev\cs\config\config_chapter\config_chapter.cs" />
+     <Compile Include="Assets\dev\cs\config\config_chapter\config_chapter_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_chapter\config_chapter_template.cs" />
+     <Compile Include="Assets\dev\cs\config\config_cover\config_cover.cs" />
+     <Compile Include="Assets\dev\cs\config\config_cover\config_cover_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_cover\config_cover_template.cs" />
+     <Compile Include="Assets\dev\cs\config\config_guild\config_guild.cs" />
+     <Compile Include="Assets\dev\cs\config\config_guild\config_guild_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_guild\config_guild_template.cs" />
+     <Compile Include="Assets\dev\cs\config\config_map\config_map.cs" />
+     <Compile Include="Assets\dev\cs\config\config_map\config_map_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_map\config_map_template.cs" />
+     <Compile Include="Assets\dev\cs\config\config_module\config_module.cs" />
+     <Compile Include="Assets\dev\cs\config\config_module\config_module_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_module\config_module_template.cs" />
+     <Compile Include="Assets\dev\cs\config\config_monster\config_monster.cs" />
+     <Compile Include="Assets\dev\cs\config\config_monster\config_monster_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_monster\config_monster_template.cs" />
+     <Compile Include="Assets\dev\cs\config\config_prop\config_prop.cs" />
+     <Compile Include="Assets\dev\cs\config\config_prop\config_prop_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_prop\config_prop_template.cs" />
+     <Compile Include="Assets\dev\cs\config\config_skill\config_skill.cs" />
+     <Compile Include="Assets\dev\cs\config\config_skill\config_skill_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_skill\config_skill_template.cs" />
+     <Compile Include="Assets\dev\cs\config\config_sort\config_sort.cs" />
+     <Compile Include="Assets\dev\cs\config\config_sort\config_sort_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_sort\config_sort_template.cs" />
+     <Compile Include="Assets\dev\cs\config\config_wall\config_wall.cs" />
+     <Compile Include="Assets\dev\cs\config\config_wall\config_wall_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_wall\config_wall_template.cs" />
+     <Compile Include="Assets\dev\cs\config\config_wealth\config_wealth.cs" />
+     <Compile Include="Assets\dev\cs\config\config_wealth\config_wealth_item.cs" />
+     <Compile Include="Assets\dev\cs\config\config_wealth\config_wealth_template.cs" />
+     <Compile Include="Assets\dev\cs\managers\AudioMgr.cs" />
+     <Compile Include="Assets\dev\cs\managers\ColorMgr.cs" />
+     <Compile Include="Assets\dev\cs\managers\GameMgr.cs" />
+     <Compile Include="Assets\dev\cs\managers\ModuleEnum.cs" />
+     <Compile Include="Assets\dev\cs\managers\ModuleMgr.cs" />
+     <Compile Include="Assets\dev\cs\managers\PosMgr.cs" />
+     <Compile Include="Assets\dev\cs\managers\ResourceMgr.cs" />
+     <Compile Include="Assets\dev\cs\managers\ResourceStatic.cs" />
+     <Compile Include="Assets\dev\cs\models\ADModel\ADModel.cs" />
+     <Compile Include="Assets\dev\cs\models\BattleModel\BattleCellInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\BattleModel\BattleInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\BattleModel\BattleModel.cs" />
+     <Compile Include="Assets\dev\cs\models\CellModel\CellAnimInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\CellModel\CellInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\CellModel\CellModel.cs" />
+     <Compile Include="Assets\dev\cs\models\CellModel\CellMoveInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\CellModel\Funcs\FunMove.cs" />
+     <Compile Include="Assets\dev\cs\models\CellModel\Funcs\FuncChanger.cs" />
+     <Compile Include="Assets\dev\cs\models\CellModel\Funcs\FuncCheckDead.cs" />
+     <Compile Include="Assets\dev\cs\models\CellModel\Funcs\FuncDeduct.cs" />
+     <Compile Include="Assets\dev\cs\models\CellModel\Funcs\FuncEliminate.cs" />
+     <Compile Include="Assets\dev\cs\models\CellModel\Funcs\FuncLine.cs" />
+     <Compile Include="Assets\dev\cs\models\ClockModel\ClockInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\ClockModel\ClockModel.cs" />
+     <Compile Include="Assets\dev\cs\models\CollectModel\CollectInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\CollectModel\CollectModel.cs" />
+     <Compile Include="Assets\dev\cs\models\ConfirmModel\ConfirmInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\ConfirmModel\ConfirmModel.cs" />
+     <Compile Include="Assets\dev\cs\models\CoverModel\CoverAnimInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\CoverModel\CoverInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\CoverModel\CoverModel.cs" />
+     <Compile Include="Assets\dev\cs\models\FightModel\FightConst.cs" />
+     <Compile Include="Assets\dev\cs\models\FightModel\FightEnums.cs" />
+     <Compile Include="Assets\dev\cs\models\FightModel\FightInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\FightModel\FightModel.cs" />
+     <Compile Include="Assets\dev\cs\models\FillModel\CopyFillInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\FillModel\FillInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\FillModel\FillModel.cs" />
+     <Compile Include="Assets\dev\cs\models\FillModel\IFInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\FillModel\IFSInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\FillModel\IntervalInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\FloorModel\FloorAnimInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\FloorModel\FloorInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\FloorModel\FloorModel.cs" />
+     <Compile Include="Assets\dev\cs\models\GameModel\GameModel.cs" />
+     <Compile Include="Assets\dev\cs\models\GuildModel\GuildEnum.cs" />
+     <Compile Include="Assets\dev\cs\models\GuildModel\GuildInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\GuildModel\GuildModel.cs" />
+     <Compile Include="Assets\dev\cs\models\HideModel\HideModel.cs" />
+     <Compile Include="Assets\dev\cs\models\HideModel\HiderInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\IAPModel\IAPModel.cs" />
+     <Compile Include="Assets\dev\cs\models\InvadeModel\InvadeInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\InvadeModel\InvadeModel.cs" />
+     <Compile Include="Assets\dev\cs\models\MapModel\ChapterInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\MapModel\MapInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\MapModel\MapModel.cs" />
+     <Compile Include="Assets\dev\cs\models\MapModel\StarInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\MonsterModel\MonsterAnimInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\MonsterModel\MonsterCrawlCreator.cs" />
+     <Compile Include="Assets\dev\cs\models\MonsterModel\MonsterCrawlInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\MonsterModel\MonsterInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\MonsterModel\MonsterModel.cs" />
+     <Compile Include="Assets\dev\cs\models\PlayerModel\ExchangeInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\PlayerModel\PlayerModel.cs" />
+     <Compile Include="Assets\dev\cs\models\PlayerModel\WealthInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\PromptModel\PromptModel.cs" />
+     <Compile Include="Assets\dev\cs\models\PropModel\PropInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\PropModel\PropModel.cs" />
+     <Compile Include="Assets\dev\cs\models\ShareModel\ShareModel.cs" />
+     <Compile Include="Assets\dev\cs\models\SkillModel\SkillEntityInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\SkillModel\SkillGroupInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\SkillModel\SkillModel.cs" />
+     <Compile Include="Assets\dev\cs\models\SkillModel\SkillSeedInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\SkillModel\SkillTempletInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\SkillModel\SkillTempletModel.cs" />
+     <Compile Include="Assets\dev\cs\models\SocialModel\SocialModel.cs" />
+     <Compile Include="Assets\dev\cs\models\WallModel\WallAnimInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\WallModel\WallInfo.cs" />
+     <Compile Include="Assets\dev\cs\models\WallModel\WallModel.cs" />
+     <Compile Include="Assets\dev\cs\modules\ADModule\ADModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\ConfirmModule\ConfirmModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\EnergyModule\EnergyModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\ExchangeModule\ExchangeModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\FightModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\AddStepActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\ChangeCellActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\ChangeCoverActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\ChangeFanceActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\ChangeMonsterActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\ClearEffectActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\PlayCellMoveEndActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\PlaySoundActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\ProgressMonsterActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\SetLayerActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\ShowBombActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\ShowEffectActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\actions\ShowEffectLineActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\BgLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\CellLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\ControlLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\CoverLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\EffectLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FanceLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FgLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FightBaseItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FightBaseLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FightCellItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FightControlItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FightCoverItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FightEffectItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FightFanceItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FightFgItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FightFloorItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FightHideItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FightMonsterItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FloorHideLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\FloorLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\LineLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\layers\MonsterLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\FightUI.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\ProgressPart.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\StepShortPart.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\prop\PropDescPart.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\prop\PropDoPart.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\prop\PropItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\prop\PropTouchItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\prop\PropsPart.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\skill\SkillItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\skill\SkillListPart.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\task\TaskItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\task\TaskListPart.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\task\TaskTipItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\FightModule\uis\task\TaskTipPart.cs" />
+     <Compile Include="Assets\dev\cs\modules\GuildModule\GuildModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\GuildModule\GuildPart.cs" />
+     <Compile Include="Assets\dev\cs\modules\GuildModule\ShowFPS.cs" />
+     <Compile Include="Assets\dev\cs\modules\LoginModule\LoginModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\MapLockModule\MapLockModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\MapModule\ChapterItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\MapModule\CountDown.cs" />
+     <Compile Include="Assets\dev\cs\modules\MapModule\MapItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\MapModule\MapModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\PauseModule\PauseModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\PinballModule\BallBaseItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\PinballModule\BallBaseLayer.cs" />
+     <Compile Include="Assets\dev\cs\modules\PinballModule\BallMove.cs" />
+     <Compile Include="Assets\dev\cs\modules\PinballModule\BallShowPart.cs" />
+     <Compile Include="Assets\dev\cs\modules\PinballModule\GiftEffectItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\PinballModule\HarvestActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\PinballModule\PinballModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\PinballModule\PlayBallMoveEndActor.cs" />
+     <Compile Include="Assets\dev\cs\modules\PrepareModule\PrepareGo.cs" />
+     <Compile Include="Assets\dev\cs\modules\PrepareModule\PrepareModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\PrepareModule\PrepareRecord.cs" />
+     <Compile Include="Assets\dev\cs\modules\PrepareModule\PrepareTask.cs" />
+     <Compile Include="Assets\dev\cs\modules\PrepareModule\SkillSelectItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\PromptModule\PopItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\PromptModule\PromptModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\ReportModule\LoseA.cs" />
+     <Compile Include="Assets\dev\cs\modules\ReportModule\LoseB.cs" />
+     <Compile Include="Assets\dev\cs\modules\ReportModule\ReportModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\ReportModule\WinA.cs" />
+     <Compile Include="Assets\dev\cs\modules\ReportModule\WinB.cs" />
+     <Compile Include="Assets\dev\cs\modules\SetModule\SetModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\SkillModule\SkillGroupList.cs" />
+     <Compile Include="Assets\dev\cs\modules\SkillModule\SkillHoleItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\SkillModule\SkillModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\SkillModule\SkillSmallItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\SkillModule\SkillTemplet.cs" />
+     <Compile Include="Assets\dev\cs\modules\StarModule\StarItem.cs" />
+     <Compile Include="Assets\dev\cs\modules\StarModule\StarModule.cs" />
+     <Compile Include="Assets\dev\cs\modules\WealthModule\WealthModule.cs" />
+     <Compile Include="Assets\dev\cs\util\AndroidBackButton.cs" />
+     <Compile Include="Assets\dev\cs\util\DebugUtil.cs" />
+     <Compile Include="Assets\dev\cs\util\FileUtil.cs" />
+     <Compile Include="Assets\dev\cs\util\FontUtil.cs" />
+     <Compile Include="Assets\dev\cs\util\LanguageUtil.cs" />
+     <Compile Include="Assets\dev\cs\util\MailUtil.cs" />
+     <Compile Include="Assets\dev\cs\util\PlayerPrefsUtil.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\ChapterEdit.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\EditItem.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\EditList.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\EditPart.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\EditResourceMgr.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\GridMain.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\GridModel.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\SetItem.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\SetPart.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\ToggleItem.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\ToggleList.cs" />
+     <Compile Include="Assets\dev_Editor\Grid\TogglePart.cs" />
+     <None Include="Assets\sourceArt\shader\cellwars - Overlay.shader" />
+     <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20043.txt" />
+     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20001.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20066.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20032.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20065.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20025.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20004.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20009.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20074.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20076.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceAmbientObscurance.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20078.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20015.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20014.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20026.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20060.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceRaytrace.cginc" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20080.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20070.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
+     <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20017.txt" />
+     <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20038.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20018.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20079.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20011.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20057.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20075.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20055.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20035.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
+     <None Include="Assets\sourceArt\txt\fill\20072.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20012.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20067.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20056.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20068.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20046.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20028.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20019.txt" />
+     <None Include="Assets\sourceArt\txt\language\en.txt" />
+     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20051.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20069.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20058.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20071.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20033.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
+     <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20006.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20047.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20059.txt" />
+     <None Include="Assets\sourceArt\txt\game.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20037.txt" />
+     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20023.txt" />
+     <None Include="Assets\sourceArt\shader\cellwars - Additive.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20063.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
+     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
+     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20034.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20062.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20050.txt" />
+     <None Include="Assets\sourceArt\txt\fill\29999.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20073.txt" />
+     <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20008.txt" />
+     <None Include="Assets\sourceArt\txt\language\cn.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20030.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20005.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20041.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20044.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\GrayscaleEffect.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SepiaToneEffect.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\TwirlEffect.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\VortexEffect.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20045.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20007.txt" />
+     <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20021.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20022.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20054.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20040.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20016.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20003.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20061.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20064.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20002.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20024.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20013.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20077.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20049.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20027.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20042.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20053.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20039.txt" />
+     <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20031.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20020.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20048.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20029.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20010.txt" />
+     <None Include="Assets\sourceArt\txt\fill\20052.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
+     <None Include="Assets\sourceArt\txt\fill\20036.txt" />
+     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="ICSharpCode.SharpZipLib">
+ <HintPath>/Users/errormee/dev/update/CellWars/Assets/Plugins/ICSharpCode.SharpZipLib.dll</HintPath>
+ </Reference>
+ <Reference Include="Common">
+ <HintPath>/Users/errormee/dev/update/CellWars/Assets/Plugins/UnityPurchasing/Bin/Common.dll</HintPath>
+ </Reference>
+ <Reference Include="Editor">
+ <HintPath>/Users/errormee/dev/update/CellWars/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Security">
+ <HintPath>/Users/errormee/dev/update/CellWars/Assets/Plugins/UnityPurchasing/Bin/Security.dll</HintPath>
+ </Reference>
+ <Reference Include="Stores">
+ <HintPath>/Users/errormee/dev/update/CellWars/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+ </Reference>
+ <Reference Include="Apple">
+ <HintPath>/Users/errormee/dev/update/CellWars/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+ </Reference>
+ <Reference Include="winrt">
+ <HintPath>/Users/errormee/dev/update/CellWars/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{3EA7DD58-AC56-D16B-BC4F-9085BBC14053}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

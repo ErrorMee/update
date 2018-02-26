@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 903754027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8815f515ef3541d62f254f6689e0ad1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dbfe6d81c7e6212ece23f14cbe018bd1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b666e92f474c7647af5e6d7a633bd3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73174d4719d741348b5d9e38f4f330fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10eb409af37a4b648996a9e3e1339c5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5836006b01866454d8dd4047628fa4c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3317536b07aee1d4da2904a1ca617715, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/prefab/base/WealthItem.prefab
+- Assets/sourceArt/prefab/base/Bugger.prefab
+- Assets/sourceArt/prefab/base/hiveItem.prefab
+- Assets/sourceArt/prefab/base/baseList.prefab
+Dependencies:
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/5a64cb22a2bff8444833d23b7c96d925
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/icon/cell.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/6169c416bc01f0f4887549643936e2df
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/3795d3434a7f3d1468f3119f56596306
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/dependencies/824b53d32a45d4d49a9b9bcea3598469
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/icon/ui.ab
+- /Users/errormee/dev/update/CellWars/Assets/StreamingAssets/mobile/icon/wealth.ab

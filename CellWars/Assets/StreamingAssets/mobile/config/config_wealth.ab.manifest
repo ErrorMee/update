@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2926246349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d14a50667008e82036f335b9f2f7303
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/config/config_wealth.json
+Dependencies: []

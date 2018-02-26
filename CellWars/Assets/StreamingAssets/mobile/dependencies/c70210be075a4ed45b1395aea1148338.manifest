@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3053104923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c6d29680ba7362f3719b33a0c00db97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 699dc8d5d6b75a27caa1640a4a8b7c11
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/anim/STUDIO_OUT.anim
+Dependencies: []

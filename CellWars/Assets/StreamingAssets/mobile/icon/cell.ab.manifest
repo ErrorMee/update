@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 2803516262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76dff7d7ffbd3afc0ee14cc7ea3b42d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sourceArt/icon/cell/cell_10119.png
+- Assets/sourceArt/icon/cell/cell_10006.png
+- Assets/sourceArt/icon/cell/cell_10007.png
+- Assets/sourceArt/icon/cell/cell_10002.png
+- Assets/sourceArt/icon/cell/cell_10401.png
+- Assets/sourceArt/icon/cell/cell_10018.png
+- Assets/sourceArt/icon/cell/cell_10703.png
+- Assets/sourceArt/icon/cell/cell_10017.png
+- Assets/sourceArt/icon/cell/cell_10205.png
+- Assets/sourceArt/icon/cell/cell_10302.png
+- Assets/sourceArt/icon/cell/cell_10804.png
+- Assets/sourceArt/icon/cell/cell_10802.png
+- Assets/sourceArt/icon/cell/cell_10109.png
+- Assets/sourceArt/icon/cell/cell_10806.png
+- Assets/sourceArt/icon/cell/cell_10813.png
+- Assets/sourceArt/icon/cell/cell_10115.png
+- Assets/sourceArt/icon/cell/cell_10110.png
+- Assets/sourceArt/icon/cell/cell_10102.png
+- Assets/sourceArt/icon/cell/cell_10003.png
+- Assets/sourceArt/icon/cell/cell_10701.png
+- Assets/sourceArt/icon/cell/cell_10000.png
+- Assets/sourceArt/icon/cell/cell_10810.png
+- Assets/sourceArt/icon/cell/cell_10204.png
+- Assets/sourceArt/icon/cell/cell_10814.png
+- Assets/sourceArt/icon/cell/cell_10104.png
+- Assets/sourceArt/icon/cell/cell_10812.png
+- Assets/sourceArt/icon/cell/cell_10120.png
+- Assets/sourceArt/icon/cell/cell_10801.png
+- Assets/sourceArt/icon/cell/cell_10702.png
+- Assets/sourceArt/icon/cell/cell_10207.png
+- Assets/sourceArt/icon/cell/cell_10117.png
+- Assets/sourceArt/icon/cell/cell_10105.png
+- Assets/sourceArt/icon/cell/cell_10005.png
+- Assets/sourceArt/icon/cell/cell_10106.png
+- Assets/sourceArt/icon/cell/cell_10103.png
+- Assets/sourceArt/icon/cell/cell_10016.png
+- Assets/sourceArt/icon/cell/cell_10704.png
+- Assets/sourceArt/icon/cell/cell_10004.png
+- Assets/sourceArt/icon/cell/cell_10118.png
+- Assets/sourceArt/icon/cell/cell_10111.png
+- Assets/sourceArt/icon/cell/cell_10803.png
+- Assets/sourceArt/icon/cell/cell_10113.png
+- Assets/sourceArt/icon/cell/cell_10101.png
+- Assets/sourceArt/icon/cell/cell_10705.png
+- Assets/sourceArt/icon/cell/cell_10108.png
+- Assets/sourceArt/icon/cell/cell_10203.png
+- Assets/sourceArt/icon/cell/cell_10501.png
+- Assets/sourceArt/icon/cell/cell_10116.png
+- Assets/sourceArt/icon/cell/cell_10202.png
+- Assets/sourceArt/icon/cell/cell_10008.png
+- Assets/sourceArt/icon/cell/cell_10107.png
+- Assets/sourceArt/icon/cell/cell_10112.png
+- Assets/sourceArt/icon/cell/cell_10206.png
+- Assets/sourceArt/icon/cell/cell_10811.png
+- Assets/sourceArt/icon/cell/cell_10400.png
+- Assets/sourceArt/icon/cell/cell_10001.png
+- Assets/sourceArt/icon/cell/cell_10015.png
+- Assets/sourceArt/icon/cell/cell_10014.png
+- Assets/sourceArt/icon/cell/cell_10815.png
+- Assets/sourceArt/icon/cell/cell_10402.png
+- Assets/sourceArt/icon/cell/cell_10114.png
+- Assets/sourceArt/icon/cell/cell_10019.png
+- Assets/sourceArt/icon/cell/cell_10805.png
+Dependencies: []

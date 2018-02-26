@@ -1,0 +1,21 @@
+﻿public enum ModuleEnum
+{
+    LOGIN = 10001,
+    MAP = 10002,
+    SKILL = 10003,
+    PREPARE = 10004,
+    FIGHT = 10005,
+    REPORT = 10006,
+	PAUSE = 10007,
+    PROMPT = 10008,
+	GUILD = 10009,
+    SET = 10010,
+    CONFIRM = 10011,
+    WEALTH = 10012,
+	EXCHANGE = 10013,
+    PINBALL = 10014,
+	ENERGY = 10015,
+	STAR = 10016,
+	MAPLOCK = 10017,
+	ADREWARD = 10018,
+}
